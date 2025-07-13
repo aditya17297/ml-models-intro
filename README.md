@@ -1,12 +1,12 @@
 Python - 3.12
 
-Libs:
+Libraries:
 
-numpy
-matplotlib
-pandas
-scikit-learn
-tensorflow
-keras
-xgboost
-catboost
+1. numpy
+2. matplotlib 
+3. pandas 
+4. scikit-learn 
+5. tensorflow 
+6. keras 
+7. xgboost 
+8. catboost
